@@ -23,4 +23,9 @@ Takes a mesh as input, returns the smoothed vertices as output
     + `passBand` a scalar between `0` and `1` determining the cutoff frequency. (default `0.1`)
 
 # Credits
+
+Development supported by [Standard Cyborg](http://www.standardcyborg.com/)
+
+<img src="stdcyborg.png" width="200px">
+
 (c) 2017 Mikola Lysenko. MIT License
