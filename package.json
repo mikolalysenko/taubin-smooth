@@ -1,6 +1,6 @@
 {
   "name": "taubin-smooth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Taubin's Laplacian mesh smoothing algorithm",
   "main": "smooth.js",
   "dependencies": {
