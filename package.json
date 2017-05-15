@@ -4,7 +4,7 @@
   "description": "Taubin's Laplacian mesh smoothing algorithm",
   "main": "smooth.js",
   "dependencies": {
-    "mesh-laplacian": "^1.0.0"
+    "typedarray-pool": "^1.1.0"
   },
   "devDependencies": {
     "angle-normals": "^1.0.0",
